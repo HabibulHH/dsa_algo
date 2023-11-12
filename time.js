@@ -5,6 +5,8 @@ const pr = new Promise((Resolve,Reject)=>{
 async function hira(){
  let res= await pr;
  console.log(res);
+ console.log('hira');
 }
 
 hira();
+console.log('hira two');

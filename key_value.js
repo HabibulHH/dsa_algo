@@ -1,6 +1,8 @@
 let student = {
     "jack": 23,
     "doe": 455,
+    "jam": 455,
+    "fan": 455,
 }
 
 let student_two = {
